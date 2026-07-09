@@ -178,11 +178,11 @@ Soluções administrativas, dashboards e automações.
 
 <div align="center">
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:cesaraugustopacheco@gmail.com">
 <img src="https://img.shields.io/badge/Email-0A1F44?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/SEULINK">
+<a href="https://linkedin.com/in/capf01">
 <img src="https://img.shields.io/badge/LinkedIn-00C2A3?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
