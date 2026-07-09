@@ -64,10 +64,6 @@ const cesar = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=capf01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capf01&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=capf01&theme=tokyonight&hide_border=true"/>
 
@@ -75,15 +71,6 @@ const cesar = {
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=capf01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
@@ -102,8 +89,6 @@ const cesar = {
 <p align="center">
   <img src="https://raw.githubusercontent.com/capf01/capf01/output/snake-color.svg">
 </p>
-
-### 🔥 Snake Neon
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/capf01/capf01/output/snake-neon.svg">
