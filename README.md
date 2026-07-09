@@ -1,3 +1,5 @@
+# capf01
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:00C2A3&height=220&section=header&text=César%20Augusto%20Ferreira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
@@ -89,11 +91,29 @@ const cesar = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=capf01&theme=react-dark&hide_border=true&area=true"/>
 
-<br><br>
-
-<img src="https://raw.githubusercontent.com/capf01/capf01/output/github-contribution-grid-snake-dark.svg"/>
-
 </div>
+
+---
+
+## 🐍 Snake Animations
+
+### 🐍 Snake Colorida
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/capf01/capf01/output/snake-color.svg">
+</p>
+
+### 🔥 Snake Neon
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/capf01/capf01/output/snake-neon.svg">
+</p>
+
+### 🌌 Snake Galaxy
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/capf01/capf01/output/snake-galaxy.svg">
+</p>
 
 ---
 
@@ -200,4 +220,4 @@ Soluções administrativas, dashboards e automações.
 
 ### ⭐ Thanks for visiting my profile!
 
-</div># capf01
+</div>
