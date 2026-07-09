@@ -72,7 +72,7 @@ Sempre estudando novas soluções para transformar ideias em sistemas reais.
 ---
 
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -89,12 +89,6 @@ Sempre estudando novas soluções para transformar ideias em sistemas reais.
 <p align="center">
   <img src="https://raw.githubusercontent.com/capf01/capf01/output/snake-color.svg">
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/capf01/capf01/output/snake-neon.svg">
-</p>
-
-
 
 ---
 
