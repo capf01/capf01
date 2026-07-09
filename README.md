@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <img align="right" height="190" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -31,13 +31,13 @@ const cesar = {
 };
 ```
 
-💻 Desenvolvedor focado em aplicações modernas para Web, Mobile e Desktop.  
-🚀 Apaixonado por tecnologia, arquitetura limpa, performance e boas práticas.  
-📚 Sempre estudando novas soluções para transformar ideias em sistemas reais.  
+Desenvolvedor focado em aplicações modernas para Web, Mobile e Desktop.  
+Apaixonado por tecnologia, arquitetura limpa, performance e boas práticas.  
+Sempre estudando novas soluções para transformar ideias em sistemas reais.  
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -60,7 +60,7 @@ const cesar = {
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -82,9 +82,9 @@ const cesar = {
 
 ---
 
-## 🐍 Snake Animations
+##  Snake Animations
 
-### 🐍 Snake Colorida
+###
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/capf01/capf01/output/snake-color.svg">
@@ -94,15 +94,11 @@ const cesar = {
   <img src="https://raw.githubusercontent.com/capf01/capf01/output/snake-neon.svg">
 </p>
 
-### 🌌 Snake Galaxy
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/capf01/capf01/output/snake-galaxy.svg">
-</p>
 
 ---
 
-## 🧠 Currently Improving
+##  Currently Improving
 
 ```mermaid
 mindmap
@@ -131,7 +127,7 @@ mindmap
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -139,7 +135,7 @@ mindmap
 <tr>
 <td width="50%">
 
-### 🛒 FrioMarket
+###  FrioMarket
 Marketplace para refrigeração, climatização, peças e serviços.
 
 **Stack:** Next.js, Firebase, Tailwind, TypeScript
@@ -147,7 +143,7 @@ Marketplace para refrigeração, climatização, peças e serviços.
 </td>
 <td width="50%">
 
-### 🎨 Elite Tintas App
+###  Elite Tintas App
 Aplicativo mobile para catálogo, pedidos e atendimento.
 
 **Stack:** React Native, API, Database
@@ -158,7 +154,7 @@ Aplicativo mobile para catálogo, pedidos e atendimento.
 <tr>
 <td width="50%">
 
-### 🏗 Construtora Vieira
+### Construtora Vieira
 Website institucional moderno e responsivo.
 
 **Stack:** HTML, CSS, JavaScript
@@ -166,7 +162,7 @@ Website institucional moderno e responsivo.
 </td>
 <td width="50%">
 
-### 🧠 Sistemas Web
+### Sistemas Web
 Soluções administrativas, dashboards e automações.
 
 **Stack:** Angular, .NET, SQL
@@ -179,7 +175,7 @@ Soluções administrativas, dashboards e automações.
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
 <div align="center">
 
